@@ -1,4 +1,4 @@
-const CACHE = "thailand-trip-2026-v3";
+const CACHE = "thailand-trip-2026-v4";
 const CORE = [
   "/", "/today/", "/itinerary/", "/map/", "/transport/", "/places/", "/toolkit/",
   "/manifest.webmanifest", "/icon.svg"
